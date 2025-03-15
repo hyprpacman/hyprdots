@@ -169,16 +169,13 @@
    hyprlock
    rofi
    waybar
-   iosevka-bin
+   iosevka
    fastfetch
    w3m
-   ghostty
    libreoffice
    zathura
    ranger
    xfce.thunar
-   vscodium
-   gedit
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
